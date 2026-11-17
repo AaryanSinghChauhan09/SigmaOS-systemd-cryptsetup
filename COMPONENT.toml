@@ -3,7 +3,7 @@ name = "SigmaOS-systemd-cryptsetup"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "systemd-cryptsetup component"
+description = "systemd cryptsetup"
 upstream = []
 
 [contract]
